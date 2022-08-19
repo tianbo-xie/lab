@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Tianbo Tse
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Animal and Food Science
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
