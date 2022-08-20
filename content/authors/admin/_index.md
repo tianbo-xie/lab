@@ -6,7 +6,7 @@ title: Rachel Schendel
 superuser: true
 
 # Role/position
-role: Assitant Professor of Animal and Food Science
+role: Principle Investgator
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structural analysis of plant cell wall carbohydrates
+  - Relationship between carbohydrate structure and fermentation / digestion behavior
+  - Development of novel sources of prebiotics as food ingredients
+  - Utilization of agricultural and food processing waste products
 
 education:
   courses:
@@ -41,15 +42,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'rachel.schendel@uky.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +56,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +64,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr.Rachel Schendel is an Assistant Professor of Food Science at the Department of Animal and Food Science, University of Kentucky. 
