@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sophia Newhuis
+title: Brynn Angeletti
 
 # Username (this should match the folder name)
 authors:
-  - sophia
+  - brynn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Undergraduate Research
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
     - course: BS in Food Science
       institution: University of Kentucky 
-      year: 2020
+      year: 20??-20??
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,8 +60,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Undergrad Researchers
 ---
 
-Sophia is a 
+Brynn is a 
 
