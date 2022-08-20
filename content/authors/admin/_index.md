@@ -30,7 +30,7 @@ education:
     - course: MS in Food Science
       institution: University of Minnesota
       year: 2012
-    - course: BS in Artificial Intelligence
+    - course: BS in Nutrition and Food Science
       institution: University of Minnesota
       year: 2010
 
