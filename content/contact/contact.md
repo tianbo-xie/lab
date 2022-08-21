@@ -9,34 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Opening Positions
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: hjkulik AT mit DOT edu
+  email: Rachel.Schendel AT uky DOT edu
   phone: 
   address:
-    street: 77 Massachusetts Ave. Room 66-464
-    city: Cambridge
-    region: MA
-    postcode: '02139'
+    street: W.P. Garrigus Building Room 410
+    city: Lexington
+    region: KY
+    postcode: '40546'
     country: United States
     country_code: US
   coordinates:
-    latitude: '42.3610'
-    longitude: '-71.08878'
+    latitude: '38.0280'
+    longitude: '84.5088'
   directions: ''
   office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   appointment_url: ''
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Follow Us
-      link: 'https://twitter.com/KulikGroup'
 
   # Automatically link email and phone or display as text?
   autolink: true
