@@ -9,13 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Opening Positions
+title: Contact
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: Rachel.Schendel AT uky DOT edu
+  email: Tianbo.tse AT uky DOT edu
   phone: 
   address:
     street: W.P. Garrigus Building Room 410
@@ -26,7 +26,7 @@ content:
     country_code: US
   coordinates:
     latitude: '38.0280'
-    longitude: '84.5088'
+    longitude: '-84.5088'
   directions: ''
   office_hours:
   #  - 'Monday 10:00 to 13:00'
