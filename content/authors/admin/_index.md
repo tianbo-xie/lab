@@ -6,7 +6,7 @@ title: Rachel Schendel
 superuser: true
 
 # Role/position
-role: Principle Investgator
+role: Assistant Professor of Food Science 
 
 # Organizations/Affiliations
 organizations:
