@@ -15,28 +15,28 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: hjkulik AT mit DOT edu
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 77 Massachusetts Ave. Room 66-464
+    city: Cambridge
+    region: MA
+    postcode: '02139'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '42.3610'
+    longitude: '-71.08878'
+  directions: ''
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  appointment_url: ''
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: Follow Us
+      link: 'https://twitter.com/KulikGroup'
 
   # Automatically link email and phone or display as text?
   autolink: true
@@ -51,7 +51,21 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
+## Openings for graduate students
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+For **current/incoming MIT students**, we have openings for graduate students in **Fall 2022**! Opportunities are broadly in the areas of multi-objective materials design accelerated with machine learning and automation including for polymer upcycling, polymer design, and photocatalyst design, metal-organic framework discovery, and uncertainty quantification of DFT in materials discovery with new autonomous computational chemistry tools for large-scale simulation of glasses. Other opportunities include screening of water-stable MOFs with a combination of data-driven models and machine learning for water purification.
+
+For **students interested in coming to MIT** for graduate school, MIT ChemE, where we are located, carries out department-wide admissions and does not admit students based on the needs of an individual professor. We are also affiliated with CSBi, which maintains similar policies, and offers rotations. Once admitted to MIT, graduate students can join our group from any department inside MIT. For example, in addition to ChemE, we regularly take students into our group from chemistry, mechanical engineering, materials science, among others. Students are encouraged to apply to the appropriate PhD program that matches their undergraduate training.
+***
+
+## Postdoctoral openings
+
+We do not currently have any funded **postdoctoral openings** anticipated until the end of 2023. Areas of interest, especially for partially funded postdocs, include multi-scale enzyme modeling, electronic structure method development, and machine learning for high-throughput materials discovery.
+
+***
+
+## Undergraduates
+
+We are always eager to welcome interested MIT **undergraduate students** to our lab.
