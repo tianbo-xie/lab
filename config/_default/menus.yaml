@@ -21,7 +21,7 @@ main:
     parent: group
     weight: 10
   - name: Alumni
-    url: alumni/kulik-group-alumni/
+    url: alu/peoplea
     parent: group
     weight: 20
 
