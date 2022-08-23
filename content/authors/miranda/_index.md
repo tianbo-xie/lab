@@ -21,16 +21,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ruminants and Equines Nutrition
+  - Digestion of Carbohydrates
+  - Microbial Fermentation
+  - Sustainable Livestock Agriculture
 
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BS in Equine Science and German
+    - course: MS in Animal and Food Science
+      institution: University of kentucky
+      year: 2021-now
+    - course: BS in Equine Science and Management
       institution: University of Kentucky
       year: 2021
 
@@ -41,16 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mrku223@uky.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +59,5 @@ user_groups:
   - Grad Students
 ---
 
-Miranda is
+Miranda Kunes Agbana is a master student hailing from Cincinnati, Ohio. Currently, she is working on characterizing the cell wall of hempseed and exploring its impact on ruminal fermentation. She has an undergraduate background in equine nutrition and enjoys the interplay between research in a lab and real-world problems. 
 
