@@ -21,7 +21,7 @@ main:
     parent: group
     weight: 10
   - name: Alumni
-    url: alumni
+    url: people2
     parent: group
     weight: 20
 
