@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Issac Hao
+title: Glenna Joyce
 
 # Username (this should match the folder name)
 authors:
-  - issac
+  - glenna
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Underaduate Researcher
+role: Previous MS Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name: Distilling Education Coordinator For James B. Beam Institute for Kentucky Spirits
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: BS in Food Science
+    - course: MS in Food Science
       institution: University of Kentucky 
-      year: 2019-Present
+      year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -63,5 +63,5 @@ user_groups:
   - Alumni
 ---
 
-Issac is a 
+Glenna is 
 
