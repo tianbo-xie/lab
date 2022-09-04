@@ -59,7 +59,7 @@ user_groups:
   - Grad Students
 ---
 
-Sophia is a second year master's student from Chicago, IL. She is studying the changes in the cell wall composition of cool-season pasture forages and their rumen fermentation properties over the growing season, under the supervision of Dr. Rachel Schendel. In the summer of 2019, she completed an undergraduate research internship in Dr. Schendel’s lab. This research focused on releasing and quantifying feruloylated arabinoxylan oligosaccharides from bourbon spent grains. It was during this time that Sophia realized she had a passion for research. Once Sophia completes her master's degree, she hopes to work in research & development for a food company.
+Sophia is a second year master's student from Chicago, IL. She is studying the changes in the cell wall composition of cool-season pasture forages and their rumen fermentation properties over the growing season, under the supervision of Dr. Rachel Schendel. In the summer of 2019, she completed an undergraduate research internship in Dr. Schendel's lab. This research focused on releasing and quantifying feruloylated arabinoxylan oligosaccharides from bourbon spent grains. It was during this time that Sophia realized she had a passion for research. Once Sophia completes her master's degree, she hopes to work in research & development for a food company.
 
 Interesting fact: Sophia likes concerts, broadway musicals, reading, traveling, and the ocean.
 
