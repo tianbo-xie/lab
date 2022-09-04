@@ -21,15 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biochemistry
+  - Analytical Chemistry
+  - Carbohydrates
+  - Product Development
 
 education:
   courses:
     - course: BS in Food Science
       institution: University of Kentucky 
       year: 2020
+    - course: MS in Food Science
+      institution: University of Kentucky 
+      year: 2021-2023(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,16 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'sophia.newhuis@uky.edu'
+ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +59,7 @@ user_groups:
   - Grad Students
 ---
 
-Sophia is a 
+Sophia is a second year master's student from Chicago, IL. She is studying the changes in the cell wall composition of cool-season pasture forages and their rumen fermentation properties over the growing season, under the supervision of Dr. Rachel Schendel. In the summer of 2019, she completed an undergraduate research internship in Dr. Schendel’s lab. This research focused on releasing and quantifying feruloylated arabinoxylan oligosaccharides from bourbon spent grains. It was during this time that Sophia realized she had a passion for research. Once Sophia completes her master's degree, she hopes to work in research & development for a food company.
+
+Interesting fact: Sophia likes concerts, broadway musicals, reading, traveling, and the ocean.
 
