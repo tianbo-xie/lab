@@ -59,7 +59,7 @@ user_groups:
   - Grad Students
 ---
 
-Miranda Kunes Agbana is a master student hailing from Cincinnati, Ohio. Currently, she is working on characterizing the cell wall of hempseed and exploring its impact on ruminal fermentation. She has an undergraduate background in equine nutrition and enjoys the interplay between research in a lab and real-world problems. 
+Miranda Kunes Agbana is a master's student hailing from Cincinnati, Ohio. Currently, she is working on characterizing the cell wall of hempseed and exploring its impact on ruminal fermentation. She has an undergraduate background in equine nutrition and enjoys the interplay between research in a lab and real-world problems. 
 
 Fun Facts: Miranda likes anything horse related, reading books, particularly sci-fi and fantasy, painting, drawing, and sculpting, dinosaurs!
       
