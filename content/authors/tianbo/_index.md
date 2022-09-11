@@ -4,7 +4,7 @@ title: Tianbo Tse
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - tianbo
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,21 +21,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Chemical Biology
+  - Computational Chemistry
+  - Physical Organic Chemsitry
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Exchange Student
+      institution: University of Kentucky
+      year: 2018-2020
+    - course: BEng in Environmental Engineering(Degree Abadoned)
+      institution: Beijing University of Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: "mailto:tianbo.tse@uky.edu"
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/%E5%A4%A9%E5%8D%9A-%E8%B0%A2-a327ab216/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +60,4 @@ user_groups:
   - Grad Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://caas.cn/cms/web/search/detailed_info.jsp?id=3323b9b44767b2dec7f2bd80761ad3f1)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. 
