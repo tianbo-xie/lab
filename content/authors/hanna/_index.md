@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainability
+  - Brewing Research 
+  - Alcohol Production Research
 
 education:
   courses:
     - course: BS in Food Science
       institution: University of Kentucky 
-      year: 2019-Present
+      year: 2019-2023(Expect)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,16 +38,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'Hanna.Buecker@uky.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +55,5 @@ user_groups:
   - Undergrad Researchers
 ---
 
-Hanna is a 
+Hanna is an undergraduate research assistant. She spent the summer of 2022 working in Dr. Schendel’s lab and is excited to continue working and learning through her senior year of undergrad.
 
