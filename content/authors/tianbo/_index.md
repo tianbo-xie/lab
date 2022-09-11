@@ -30,7 +30,7 @@ education:
     - course: Exchange Student
       institution: University of Kentucky
       year: 2018-2020
-    - course: BEng in Environmental Engineering(Degree Abadoned)
+    - course: BEng in Environmental Engineering
       institution: Beijing University of Technology
       year: 2021
 
