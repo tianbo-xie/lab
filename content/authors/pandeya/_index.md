@@ -48,14 +48,17 @@ social:
     icon_pack: fas
     link: 'pandeya.prakash@uky.edu'
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: 'https://www.linkedin.com/in/prakash-raj-pandeya-phd-7827536a/'
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: 'https://pandeyapraj.github.io/'
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: 'https://twitter.com/prajpandeya'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=A3VGzI4AAAAJ&hl=en  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
