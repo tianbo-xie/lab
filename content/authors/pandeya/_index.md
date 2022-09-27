@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'pandeya.prakash@uky.edu'
+    link: "mailto:pandeya.prakash@uky.edu"
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/prakash-raj-pandeya-phd-7827536a/'
