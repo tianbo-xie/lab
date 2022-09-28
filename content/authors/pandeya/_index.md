@@ -32,7 +32,7 @@ education:
     - course: PhD in Natural Product Chemistry
       institution: Wonkwang University
       year: 2020
-    - course: MS in Natural Product Chemistry
+    - course: MS in Oriental Pharmacy
       institution: Wonkwang University
       year: 2016
     - course: BS in  Pharmeceutical Sciences 
