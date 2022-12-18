@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Kulik Research Group # Website name
-baseURL: 'http://hjkgrp.mit.edu' # Website URL
+title: Rchendel Research Group # Website name
+baseURL: 'https://rslabuky.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE

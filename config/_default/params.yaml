@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'The Kulik Group Website'
-    twitter: 'KulikGroup'
+    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,20 +35,20 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: false
-    show_search: false
+    show_day_night: true
+    show_search: true
     highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© Kulik Research Group, {year}' #. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
-      #allow_derivatives: false
-      #share_alike: true
-      #allow_commercial: false
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
@@ -101,9 +101,6 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
 
@@ -111,4 +108,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: mla
+  citation_style: apa
