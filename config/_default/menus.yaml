@@ -31,6 +31,4 @@ main:
   - name: Positions
     url: contact
     weight: 50
-  - name: Research
-    url: tour
-    weight: 60
+
