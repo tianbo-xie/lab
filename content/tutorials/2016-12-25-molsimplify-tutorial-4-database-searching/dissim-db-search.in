@@ -1,2 +1,0 @@
--dbfname simres.smi # dbdissim looks for a file with this name
--dbdissim 20 # number of dissimilar results desired
