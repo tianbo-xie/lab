@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: Kulik Group
-      content: October 2021
+    - title: Schendel Group
+      content: December 2022
       align: right
       background:
         position: left
         color: '#666'
         brightness: 0.8
-        media: group_photo_oct2021_v2.png
+        media: group_photo_dec2022.png
         media_size: auto 80%
       link:
         icon: user
