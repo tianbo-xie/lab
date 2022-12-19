@@ -18,8 +18,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Structural analysis of carbohydrates
-  - Relationship between carbohydrate structure and fermentation / digestion behavior
-  - Utilization of agricultural and food processing waste products
+  - Nuclear Magnetic Resonance
+  - Plant Biochemistry
 
 education:
   courses:
