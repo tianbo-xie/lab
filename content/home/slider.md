@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '400px'
+  slide_height: '500px'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: false
@@ -19,11 +19,11 @@ content:
       content: December 2022
       align: right
       background:
-        position: left
+        position: middle
         color: '#666'
         brightness: 0.8
         media: group_photo_dec2022.png
-        media_size: auto 80%
+        media_size: auto 120%
       link:
         icon: user
         icon_pack: fas

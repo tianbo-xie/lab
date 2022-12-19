@@ -6,8 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Kulik Research Group"
-subtitle: "ChemE @ MIT"
+title: "Schendel Research Group"
 #hero_media: bottled.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -26,6 +25,4 @@ advanced:
   css_style:
   css_class:
 ---
-We focus on the *development* and *application* of new
-**electronic structure** methods and **atomistic simulation** tools in the
-broad area of **catalysis**.
+We focus on the *relationship between carbohydrate structure and fermentation / digestion behavior* and *utilization of food processing waste products* .

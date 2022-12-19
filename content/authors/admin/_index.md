@@ -17,9 +17,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Structural analysis of plant cell wall carbohydrates
+  - Structural analysis of carbohydrates
   - Relationship between carbohydrate structure and fermentation / digestion behavior
-  - Development of novel sources of prebiotics as food ingredients
   - Utilization of agricultural and food processing waste products
 
 education:
