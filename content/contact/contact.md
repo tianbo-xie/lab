@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: Tianbo.tse AT uky DOT edu
+  email: rachel.schendel@uky.edu
   phone: 
   address:
     street: W.P. Garrigus Building Room 410
