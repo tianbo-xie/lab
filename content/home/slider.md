@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
-  interval: 4000
+  interval: 3000
 
 content:
   slides:
@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.8
         media: group_photo_dec2022.png
-        media_size: auto 120%
+        media_size: auto 100%
       link:
         icon: user
         icon_pack: fas

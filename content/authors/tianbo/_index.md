@@ -61,3 +61,4 @@ user_groups:
 ---
 
 Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://caas.cn/cms/web/search/detailed_info.jsp?id=3323b9b44767b2dec7f2bd80761ad3f1)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. 
+Interesting fact: Tianbo's favorite animation is JOJO's Bizzare Adventure
