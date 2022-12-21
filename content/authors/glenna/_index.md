@@ -18,18 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
+  
+  
 
 education:
   courses:
     - course: MS in Food Science
       institution: University of Kentucky 
       year: 2018-2021
+     - course: BS in Biochemistry/Health and Exercise Science(Minor in Dance)
+      institution: Skidmore College(Saratoga Springs, NY)
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,16 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'Glenna.Joyce@uky.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +57,5 @@ user_groups:
   - Alumni
 ---
 
-Glenna is 
+Glenna Joyce received her B.S. (double major in Biochemistry/Health and Exercise Science with a minor in Dance) from Skidmore College (Saratoga Springs, NY) in 2016. She then worked for two years as a distiller at Upstate Distilling Company (Saratoga Springs, NY) before joining the Schendel lab as a master’s student. She successfully defended her master’s thesis, Arabinoxylan structural profiling of cool-season pasture grasses via high-performance anion-exchange with pulsed amperometric detection (HPAEC-PAD) analysis of endoxylanase digests, in February 2021. Glenna now serves as the Distilling Education Coordinator for the James B. Beam Institute for Kentucky Spirits at the University of Kentucky. In her free time, Glenna is an Irish Dance instructor and competitor. 
 

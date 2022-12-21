@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Chemical Biology
-  - Computational Chemistry
+  - Organometallic Chemistry
   - Physical Organic Chemsitry
 
 education:

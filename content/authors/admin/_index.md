@@ -17,9 +17,9 @@ organizations:
 bio: My research interest is carbohydrate chemistry.
 
 interests:
-  - Structural analysis of carbohydrates
-  - Nuclear Magnetic Resonance
-  - Plant Biochemistry
+  - Food Chemistry
+  - Analutical Chemistry
+  - Nutrition
 
 education:
   courses:
@@ -61,4 +61,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Dr.Rachel Schendel is an Assistant Professor of Food Science at the Department of Animal and Food Science, University of Kentucky. 
+Rachel Schendel grew up on a dairy farm in southeastern Minnesota. She received her B.S. (double major in Food Science/Nutrition Science, 2010) and MS (Food Science, 2012) degrees from the University of Minnesota-Twin Cities and completed her doctorate (Food Chemistry) from the Karlsruhe Institute of Technology in Karlsruhe, Germany in 2016. She was honored to join the University of Kentucky’s Department of Animal and Food Sciences as an assistant professor in 2017. She also teaches undergraduate courses in Food Processing and Food Fermentations. Besides being a research nerd, she loves playing the piano, playing chess, exploring Kentucky, making and eating food, and drinking coffee. She and her husband, Isaac, have two beloved daughters, Lisbeth and Margaret.  
