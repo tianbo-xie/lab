@@ -23,21 +23,21 @@ content:
         color: '#666'
         brightness: 0.8
         media: group_photo_dec2022.png
-        media_size: auto 100%
+        media_size: auto 80%
       link:
         icon: user
         icon_pack: fas
         text: Meet the Team
         url: people
     ## publication highlights below: adjust title, content, media, and url fields
-    - title: Quantitative 2-D NMR 
-      content: "HSQC"
+    - title: Quantitative HSQC 
+      content: "2-D NMR"
       align: right
       background:
         position: left
         color: '#333'
         brightness: 0.8
-        media: vanadium_splash_figure.png
+        media: fpls-13-951705-g001.jpg
         media_size: auto 80%
       link:
         icon: graduation-cap
