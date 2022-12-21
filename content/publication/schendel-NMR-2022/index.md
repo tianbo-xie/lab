@@ -1,17 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Are Vanadium Intermediates Suitable Mimics in Non-Heme Iron Enzymes? An Electronic
-  Structure Analysis
+title: 2D-HSQC-NMR-Based Screening of Feruloylated Side-Chains of Cereal Grain Arabinoxylans
 subtitle: ''
 summary: ''
 authors:
-- vyshnavi
-- Rimsha Mehmood
 - admin
+- Mirko Bunzel
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2022-07-07'
 lastmod: 2022-05-09T10:11:44-04:00
 featured: false
 draft: false
@@ -30,27 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-09T14:11:44.221712Z'
+publishDate: '2022-07-07'
 publication_types:
 - '2'
-abstract: ' Vanadyl intermediates are frequently used as mimics for the fleeting Fe(IV)═O
-  intermediate in non-heme iron enzymes that catalyze C–H activation. Using density
-  functional theory and correlated wavefunction theory, we investigate the degree
-  to which the electronic structure of vanadium mimics is comparable to that of catalytic
-  iron intermediates. Our calculations reveal crucial structural and energetic differences
-  between vanadyl and ferryl intermediates primarily due to the former having a low-spin
-  ground state and the latter having a high-spin one. This difference in spin state
-  leads to differences in energetics for accessing isomers that confer activity in
-  non-heme hydroxylase and halogenase enzymes. While interconversion between monodentate
-  and bidentate succinate isomers of the key metal-oxo/hydroxo intermediates is energetically
-  favorable for Fe, it is strongly unfavorable in V mimics. Additionally, isomerization
-  of a terminal metal-oxo between an axial and equatorial position is energetically
-  unfavorable for Fe but favorable for V. Analyses of binding strengths of Fe and
-  V intermediates to α-ketoglutarate and succinate co-substrates reveal that both
-  co-substrates bind more strongly to V than to Fe. Given the increasingly frequent
-  use by the biochemistry community of V-based intermediates as mimics, our work highlights
-  the limitations of this approach in studies of non-heme iron enzymes.'
-publication: '*ACS Catal.*, **12**, 5489-5501 (2022)'
-doi: '10.1021/acscatal.2c01143'
-url_pdf: 'https://pubs.acs.org/doi/abs/10.1021/acscatal.2c01143'
+abstract: ' Arabinoxylans of commelinid monocots are characterized by high contents of ferulic acid that is incorporated into arabinose-bearing side-chains of varying complexity. Species-related differences in the feruloylated side-chain profiles of grain arabinoxylans are observed and lead to differences in arabinoxylan functionality. Here, a semi-quantitative assay based on <sup>1</sup>H-<sup>13</sup>C-correlation NMR spectroscopy (HSQC experiment) was developed to profile feruloylated side-chains of cereal grain arabinoxylans. Following acidic liberation of the feruloylated side-chains from the xylan backbone and a clean-up step using C18 solid phase extraction, the feruloylated oligosaccharides FA (5-O-trans-feruloyl-L-arabinofuranose), FAX (β-<sc>d</sc>-xylopyranosyl-(1 → 2)-5-O-trans-feruloyl-<sc>l</sc>-arabinofuranose) and FAXG (α-<sc>l</sc>-galactopyranosyl-(1 → 2)-β-<sc>d</sc>-xylopyranosyl-(1 → 2)-5-O-trans-feruloyl-<sc>l</sc>-arabinofuranose) were analyzed by HSQC-NMR. Marker signals were identified for each compound, and experimental conditions such as solvent and internal standard as well as measurement and processing conditions were optimized for a semi-quantitative determination. The approach was validated with respect to accuracy, precision, limit of detection, and limit of quantification. The newly developed approach was applied to several cereal samples including oats, popcorn maize, wheat, and wild rice. Data were compared to an HPLC-DAD/MS approach published earlier by our group, demonstrating that the results of the HSQC approach were comparable to the more time-consuming and technically more challenging HPLC-DAD/MS method.'
+publication: '*Frontiers in Plant Science*, **13**, (2022)'
+doi: '10.3389/fpls.2022.951705'
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/fpls.2022.951705'
 ---
