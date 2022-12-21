@@ -30,8 +30,8 @@ content:
         text: Meet the Team
         url: people
     ## publication highlights below: adjust title, content, media, and url fields
-    - title: Biochemistry
-      content: "Non-heme iron vs vanadyl mimics"
+    - title: Quantitative 2-D NMR 
+      content: "HSQC"
       align: right
       background:
         position: left
@@ -43,7 +43,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Read the paper
-        url: 'publication/vennelakanti-arevanadium-2022'
+        url: 'publication/schendel-NMR-2022'
 
     
 
