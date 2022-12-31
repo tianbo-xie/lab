@@ -5,12 +5,12 @@
 
 # Appearance
 
-#theme: minimal
-theme_day: 1950s
-# font: native
-font: mr robot   # can be minimal, classic, rose, mr robot, native
-font_size: L
-
+appearance:
+  theme_day: 
+  theme_night: dark
+  font: rose
+  font_size: L
+  
 # SEO
 
 marketing:
