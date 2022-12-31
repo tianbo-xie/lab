@@ -5,11 +5,12 @@
 
 # Appearance
 
-appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+#theme: minimal
+theme: Ocean
+day_night: true
+# font: native
+font: cyberpunk   # can be minimal, classic, rose, mr robot, native
+font_size: L
 
 # SEO
 
