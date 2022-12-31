@@ -1,16 +1,11 @@
 ---
-title: News
+title: Latest News
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
+# Listing view
+view: compact
 
-filters:
-  sort_by: 'date'
-# Optional header image (relative to `static/media/` folder).
+# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: 
-  image: 
+  caption: ''
+  image: ''
 ---
