@@ -20,7 +20,7 @@ content:
       align: right
       background:
         position: middle
-        color: '#666'
+        color: '#2F325B'
         brightness: 0.8
         media: group_photo_dec2022.png
         media_size: auto 100%
@@ -30,15 +30,15 @@ content:
         text: Meet the Team
         url: people
     ## publication highlights below: adjust title, content, media, and url fields
-    - title: Quantitative HSQC 
-      content: "2-D NMR"
+    - title: Quant. 2D-NMR 
+      content: "HSQC for Arabinoxylans"
       align: right
       background:
         position: left
-        color: '#333'
+        color: '#19554B'
         brightness: 0.8
-        media: fpls-13-951705-g001.jpg
-        media_size: auto 70%
+        media: fpls-13-951705-g003.jpg
+        media_size: auto 100%
       link:
         icon: graduation-cap
         icon_pack: fas
