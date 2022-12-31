@@ -7,19 +7,19 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Schendel Research Group"
-#hero_media: bottled.png
-design:
+hero_media: lactose.png
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  background:
-    image: lactose.png
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
+  #columns: '1'
+  #background:
+    #image: lactose.png
+    #image_parallax: true
+    #image_position: center
+    #image_size: cover
+    #text_color_light: true
+  #spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    #padding: ["20px", "0", "20px", "0"]
 advanced:
   css_style:
   css_class:
