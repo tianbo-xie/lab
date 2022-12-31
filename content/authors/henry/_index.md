@@ -17,17 +17,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio
 
-interests:
-  - Artificial Intelligence
+#interests:
 
 
-education:
-  courses:
-    - course: 
-      institution: 
-      year: 
+
+#education:
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

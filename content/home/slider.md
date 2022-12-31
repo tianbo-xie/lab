@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.8
         media: group_photo_dec2022.png
-        media_size: auto 80%
+        media_size: auto 90%
       link:
         icon: user
         icon_pack: fas
@@ -38,7 +38,7 @@ content:
         color: '#333'
         brightness: 0.8
         media: fpls-13-951705-g001.jpg
-        media_size: auto 80%
+        media_size: auto 70%
       link:
         icon: graduation-cap
         icon_pack: fas
