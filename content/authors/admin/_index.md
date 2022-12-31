@@ -38,9 +38,19 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: link
+    icon_pack: fas
+    link: https://afs.ca.uky.edu/person/Schendel
   - icon: envelope
     icon_pack: fas
     link: "mailto:rachel.schendel@uky.edu"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=7gp0oIIAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Rachel-Schendel
+  
 
   
 # Link to a PDF of your resume/CV from the About widget.
