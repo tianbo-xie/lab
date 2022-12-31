@@ -1,7 +1,6 @@
 ---
 title: News
-cms_exclude: true
-aliases: News
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -11,7 +10,7 @@ view: 2
 filters:
   sort_by: 'date'
 # Optional header image (relative to `static/media/` folder).
-#banner:
-  #caption: ""
-  #image: lactose.png
+banner:
+  caption: 
+  image: 
 ---

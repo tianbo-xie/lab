@@ -1,6 +1,5 @@
 ---
 title: Schendel's Lab Holiday Party
-reading_time: false
 date: 2022-12-11
 ---
 
