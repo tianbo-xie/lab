@@ -1,9 +1,9 @@
 ---
-title: Schendel's lab holiday party
+title: Schendel's Lab Holiday Party
 reading_time: false
 date: 2022-12-11
 ---
 
-Schendel's lab holds a party on Tandoor Fine Indian Cuisine to celebrate coming holiday.Happy Holiday!
+Schendel's lab holds a party on Tandoor Fine Indian Cuisine to celebrate coming holiday. Happy Holiday!
 
 <!--more-->
