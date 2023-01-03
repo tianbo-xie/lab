@@ -16,6 +16,6 @@ design:
 #    text_color_light: false
 ---
 
-We are 
+We are a young and energetic group!
 
-Our home is in the [Animal&Food Science department](http://afs.ca.uky.edu/) at [UKY](https://www.uky.edu/).
+Our home is in the [Animal&Food Sciences Department](http://afs.ca.uky.edu/) at [UKY](https://www.uky.edu/).
