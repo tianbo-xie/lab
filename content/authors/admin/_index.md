@@ -18,7 +18,7 @@ bio: My research interest is carbohydrate chemistry.
 
 interests:
   - Food Chemistry
-  - Analutical Chemistry
+  - Analytical Chemistry
   - Nutrition
 
 education:

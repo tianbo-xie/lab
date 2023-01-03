@@ -16,6 +16,18 @@ design:
 #    text_color_light: false
 ---
 
-We are a young and energetic group!
+We’re a young, energetic group! Our home base lies in the territory of food chemistry, and we place a special emphasis on the following:
+
+· Mentoring student researchers at the undergraduate, graduate, and postgraduate level
+
+· Plant cell wall structure and structure-function implications (particularly microbial fermentation, animal feed value, and food processing characteristics)
+
+· Structural characterization and advanced analysis (HPLC, HPAEC-PAD/MS, NMR)
+
+· Carbohydrate chemistry and analysis
+
+· Plant-based antioxidants
+
+· Research that builds toward sustainable agriculture and food systems
 
 Our home is in the [Animal&Food Sciences Department](http://afs.ca.uky.edu/) at [UKY](https://www.uky.edu/).

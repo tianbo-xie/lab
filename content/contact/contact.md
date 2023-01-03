@@ -21,7 +21,7 @@ content:
     street: W.P. Garrigus Building
     city: Lexington
     region: KY
-    postcode: '40508'
+    postcode: '40546'
     country: United States
     country_code: US
   coordinates:

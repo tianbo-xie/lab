@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hannah Gaul
+title: Hannah (Gaul) Dräger
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,29 @@ authors:
 superuser: false
 
 # Role/position
-role: TBD
+role: Previous Visting Student
 
 # Organizations/Affiliations
 organizations:
-  - name: unknown
+  - name: Junior Quality Manager with Lidl International
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 #interests:
   #- Artificial Intelligence
 #- Computational Linguistics
   #- Information Retrieval
 
-#education:
-  #courses:
-    #- course: MS in Food Science
-      #institution: University of Kentucky 
-      #year: 2018-2021
+education:
+  courses:
+    - course: MS in Food Chemistry
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2018-2020
+    - course: BS in Food Chemistry
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -38,9 +41,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,5 +58,5 @@ user_groups:
   - Alumni
 ---
 
-Hannah was a visiting student from 20??-20??
+Hannah joined our lab as a student research intern from September – December 2019. We loved practicing our German with her and introducing her to Lexington. Her excellent laboratory skills helped us complete cell wall analyses on several cereal materials, including intermediate wheatgrass biomass and bourbon spent grains. Since then, Hannah has completed both her master’s degree in Food Chemistry from the Karlsruhe Institute of Technology (KIT) in Karlsruhe, Germany and the German federal food chemistry certification. She now works for Lidl International.
 
