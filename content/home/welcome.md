@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Schendel Carbonhydrate Chemistry Group"
+title: "Schendel Carbohydrate Chemistry Group"
 hero_media: logo1.png
 #design:
   # Choose how many columns the section has. Valid values: 1 or 2.

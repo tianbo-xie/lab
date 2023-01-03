@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Underaduate Researcher
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
     - course: BS in Food Science
       institution: University of Kentucky 
-      year: 2019-2023(Expect)
+      year: 2019-2023(Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

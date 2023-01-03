@@ -18,7 +18,7 @@ content:
   user_groups:
     - Principal Investigator
     - Postdocs
-    - Technicans
+    - Technicians
     - Grad Students
     - Undergrad Researchers
     - Visitors

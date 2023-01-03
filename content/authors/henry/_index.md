@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Technican
+role: Technician
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,17 @@ organizations:
 
 
 
-#education:
+education:
+  courses:
+    - course: PhD in Food Science
+      institution: University of Kentucky
+      year: 2003-2007
+    - course: MS in Food Science
+      institution: University of Kentucky
+      year: 2000-2002
+    - course: BS in Animal Sciences
+      institution: National Taiwan University
+      year: 1990-1994
 
 
 # Social/Academic Networking
@@ -46,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Technicans
+  - Technicians
 ---
 
 Henry is a lab technician and research analyst in Schendel's lab!
