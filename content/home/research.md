@@ -30,4 +30,4 @@ We’re a young, energetic group! Our home base lies in the territory of food ch
 
 · Research that builds toward sustainable agriculture and food systems
 
-Our home is in the [Animal&Food Sciences Department](http://afs.ca.uky.edu/) at [UKY](https://www.uky.edu/).
+Our home is in the [Animal & Food Sciences Department](http://afs.ca.uky.edu/) at [UKY](https://www.uky.edu/).
