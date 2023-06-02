@@ -7,7 +7,7 @@ summary: ''
 authors:
 - glenna
 - Isabelle Kagan
-- Micheal Flythe
+- Michael Flythe
 - Brittany Davis
 - admin
 tags: []
