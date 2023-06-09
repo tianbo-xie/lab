@@ -1,0 +1,7 @@
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "rss"
+
+[[outputs]]
+  kind = "sitemap"
