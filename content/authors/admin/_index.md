@@ -50,7 +50,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Rachel-Schendel
-  
+  - icon: cv
+    icon_pack: ai
+    link: resume/RS_CV.pdf
 
   
 # Link to a PDF of your resume/CV from the About widget.

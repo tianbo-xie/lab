@@ -47,9 +47,9 @@ social:
     link: https://www.linkedin.com/in/%E5%A4%A9%E5%8D%9A-%E8%B0%A2-a327ab216/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: resume/Tianbo_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
