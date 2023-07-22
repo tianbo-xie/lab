@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Researcher
+role: Previous Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -29,17 +29,16 @@ education:
   courses:
     - course: BS in Food Science
       institution: University of Kentucky 
-      year: 2019-2023(Expected)
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:Hanna.Buecker@uky.edu"
-
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hanna-buecker-2494a2208/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,8 +51,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Researchers
+  - Alumni
 ---
 
-Hanna is an undergraduate research assistant. She spent the summer of 2022 working in Dr. Schendel’s lab and is excited to continue working and learning through her senior year of undergrad.
+Hanna is an undergraduate research assistant. She spent the summer of 2022 working in Dr. Schendel’s lab and is excited to continue working and learning through her senior year of undergrad.Hanna is working for Flavorman as a shelf life coordinator.
 

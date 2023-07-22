@@ -15,7 +15,7 @@ role: Previous MS Student
 # Organizations/Affiliations
 organizations:
   - name: Distilling Education Coordinator For James B. Beam Institute for Kentucky Spirits
-    url: ''
+    url: 'https://beaminstitute.ca.uky.edu/directory/glenna-joyce-0'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
