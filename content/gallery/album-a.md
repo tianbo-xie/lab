@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-07-21T15:45:26-04:00
-lastmod: 2023-07-21T15:45:26-04:00
+date: 2023-07-22T14:13:17-04:00
+lastmod: 2023-07-22T14:13:17-04:00
 featured: false
 draft: false
 
@@ -20,10 +20,13 @@ image:
   focal_point: ""
   preview_only: false
 
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
-
-
 # 
 
-{{< gallery album="gallery" >}}
-
+{{< gallery album="pictures" >}}
