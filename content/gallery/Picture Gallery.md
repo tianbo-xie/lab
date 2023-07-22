@@ -25,5 +25,5 @@ image:
 
 # 
 
-{{< gallery album="summer_conf" >}}
+{{< gallery album="gallery" >}}
 
