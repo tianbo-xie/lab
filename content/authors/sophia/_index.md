@@ -14,7 +14,7 @@ role: Previous MS Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name: industrial chemist @ Mérieux NutriSciences 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

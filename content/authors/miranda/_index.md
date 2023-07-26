@@ -14,7 +14,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name: High School Chemsitry Teacher
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ education:
   courses:
     - course: MS in Animal and Food Science
       institution: University of kentucky
-      year: 2021-now
+      year: 2021-2023
     - course: BS in Equine Science and Management
       institution: University of Kentucky
       year: 2021
@@ -40,9 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:mrku223@uky.edu"
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/miranda-kunes/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,10 +56,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
-Miranda Kunes Agbana is a master's student hailing from Cincinnati, Ohio. Currently, she is working on characterizing the cell wall of hempseed and exploring its impact on ruminal fermentation. She has an undergraduate background in equine nutrition and enjoys the interplay between research in a lab and real-world problems. 
+Miranda Kunes Agbana is a master's student hailing from Cincinnati, Ohio. Currently, she finished her Master thesis on characterizing the cell wall of hempseed and exploring its impact on ruminal fermentation. She is a high school chemistry teacher now!
 
 Fun Facts: Miranda likes anything horse related, reading books, particularly sci-fi and fantasy, painting, drawing, and sculpting, dinosaurs!
       

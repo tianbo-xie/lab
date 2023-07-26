@@ -1,44 +1,41 @@
 ---
 # Display name
-title: Brynn Angeletti
+title: You!
 
 # Username (this should match the folder name)
 authors:
-  - brynn
+  - you
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Previous Undergraduate Researcher
+role: What are you waiting for?
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Food Chemistry
-  - Biochemistry
-  - Health and Nutrition
-  - Food Functionality
+
 education:
   courses:
-    - course: BS in Food Science
-      institution: University of Kentucky 
-      year: 2019-2023
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/brynn-angeletti-8a5995260/
+  - icon: 
+    icon_pack: 
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,8 +48,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergrad Researchers
 ---
 
-Brynn is a senior that has been working as a research assistant in Dr. Schendel's lab since the summer of 2022. Her passion for food science is the main driver in expanding her knowledge and experience within the field. She is looking forward to continuing her education and further contributing to our understanding of food science. In addition to research, Brynn also enjoys fitness, music, hiking and animals. 
+If you are interested in any research opportunity in food chemistry, don't hestitate to connect Dr. Schendel(Rachel.Schendel@uky.edu) !
 
