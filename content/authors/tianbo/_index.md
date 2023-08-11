@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Bioinorganic Chemistry
-  - Organometallic Chemistry
+  - Inorganic Chemistry
+  - Astrophysics
   - Physical Organic Chemsitry
 
 education:
