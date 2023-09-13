@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Picture Gallery"
+title: "Picture Gallery(click me!)"
 subtitle: ""
 summary: ""
 authors: []
