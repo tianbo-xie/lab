@@ -31,7 +31,7 @@ education:
       institution: University of Kentucky 
       year: 2018-2021
     - course: BS in Biochemistry/Health and Exercise Science(Minor in Dance)
-      institution: Skidmore College(Saratoga Springs, NY)
+      institution: Skidmore College
       year: 2016
 
 # Social/Academic Networking

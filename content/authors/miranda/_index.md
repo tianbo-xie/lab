@@ -14,7 +14,7 @@ role: Previous Graduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: High School Chemsitry Teacher
+  - name: High School Science Teacher @ Clark-Pleasant Community School Corp
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: MS in Animal and Food Science
-      institution: University of kentucky
+      institution: University of Kentucky
       year: 2021-2023
     - course: BS in Equine Science and Management
       institution: University of Kentucky

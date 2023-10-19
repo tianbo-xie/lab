@@ -28,10 +28,10 @@ bio:
 education:
   courses:
     - course: MS in Food Chemistry
-      institution: Karlsruhe Institute of Technology (KIT)
+      institution: Karlsruhe Institute of Technology
       year: 2018-2020
     - course: BS in Food Chemistry
-      institution: Karlsruhe Institute of Technology (KIT)
+      institution: Karlsruhe Institute of Technology
       year: 2014-2018
 
 # Social/Academic Networking
