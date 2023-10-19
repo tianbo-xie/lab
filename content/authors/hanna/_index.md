@@ -14,7 +14,7 @@ role: Previous Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -54,5 +54,5 @@ user_groups:
   - Alumni
 ---
 
-Hanna is an undergraduate research assistant. She spent the summer of 2022 working in Dr. Schendel’s lab and is excited to continue working and learning through her senior year of undergrad.Hanna is working for Flavorman as a shelf life coordinator.
+Hanna is an undergraduate research assistant. She spent the summer of 2022 working in Dr. Schendel’s lab.
 
