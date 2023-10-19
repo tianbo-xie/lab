@@ -5,7 +5,7 @@ title: 'Improved methods for mare milk analysis: Extraction and quantification o
 subtitle: ''
 summary: ''
 authors:
-- Mogan Pyles
+- Morgan Pyles
 - Kristin Brock
 - admin
 - Laurie Lawrence
