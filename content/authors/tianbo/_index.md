@@ -22,14 +22,14 @@ bio: My research interests include fancy physics and chemistry.
 
 interests:
   - Inorganic Chemistry
-  - Astrophysics
+  - Solid State Physics
   - Organic Chemsitry
 
 education:
   courses:
-    - course: Exchange Student
+    - course: Msc in Physics
       institution: University of Kentucky
-      year: 2018-2020
+      year: 2022-2024
     - course: BEng in Environmental Engineering
       institution: Beijing University of Technology
       year: 2021
@@ -57,8 +57,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
-Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://bri.caas.cn/rctd/rcdw/yjy/b14a77e35b734553a5f547e684dea858.htm)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. 
-Interesting fact: Tianbo's favorite animation is JOJO's Bizzare Adventure.
+Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://bri.caas.cn/rctd/rcdw/yjy/b14a77e35b734553a5f547e684dea858.htm)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. Tianbo is now the graduate student @ Department of Chemistry, Texas A&M University.
+
