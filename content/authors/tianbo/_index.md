@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Previous MS Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Animal and Food Science
+  - name: Animal and Food Science/Physics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,5 +60,5 @@ user_groups:
   - Alumni
 ---
 
-Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://bri.caas.cn/rctd/rcdw/yjy/b14a77e35b734553a5f547e684dea858.htm)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. Tianbo is now the graduate student @ Department of Chemistry, Texas A&M University.
+Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, however, he does not like Beijing very much. After finishing the undergraduate study, he spent a gap year on [Dr.Yuquan Xu](https://bri.caas.cn/rctd/rcdw/yjy/b14a77e35b734553a5f547e684dea858.htm)'s lab and [Prof. Zhixiang Yu's lab](https://www.chem.pku.edu.cn/zxyu/) focusing on molecular biology and physical organic chemistry respectively. Now he works at [Dr. Rachel Schendel's](https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. Tianbo is now the graduate student @ [Department of Chemistry, Texas A&M University](https://www.chem.tamu.edu/).
 
