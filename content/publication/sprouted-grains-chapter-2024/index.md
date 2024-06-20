@@ -5,7 +5,7 @@ title: 'Phenols contents in sprouted grains'
 subtitle: ''
 summary: ''
 authors:
-- prakash
+- pandeya
 - admin
 author_notes:
 - 
