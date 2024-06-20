@@ -36,7 +36,7 @@ publishDate: '2024-10-01'
 publication_types:
 - '3'
 abstract: ''
-publication: 'In *Sprouted Grains, Nutritional Value, Production, and Applications*; 2nd edition, Edited by Hao Feng, Boris Nemzer, Jonathan W. Devries, and Junzhou Ding; Woodhead Publ. & Cereals & Grains Assoc. Bookstore; ISBN 9780443236341, (2024)'
+publication: 'In *Sprouted Grains, Nutritional Value, Production, and Applications*; 2nd edition, Edited by Hao Feng, Boris Nemzer, Jonathan W. Devries, and Junzhou Ding; Woodhead Publ. and Cereals and Grains Assoc. Bookstore; ISBN 9780443236341, (2024)'
 doi: ''
 url_pdf: ''
 ---
